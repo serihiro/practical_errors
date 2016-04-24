@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/practical_errors.svg)](https://badge.fury.io/rb/practical_errors)
+
 # PracticalErrors
 
 Make rails error messages more practical.
